@@ -1,5 +1,3 @@
-# Supply Chain Analysis 
-
 ## Project Overview
 
 This project analyzes supply chain data for a fashion and beauty startup using Microsoft Excel. The analysis focuses on product performance, revenue, inventory, logistics costs, transportation modes, and defect rates.
@@ -45,6 +43,9 @@ The dataset contains supply chain information covering:
 - Transportation Mode
 - Routes
 - Costs
+
+## Dashboard Preview
+<img width="1636" height="928" alt="image" src="https://github.com/user-attachments/assets/66c97e46-eb91-4e9d-8da0-36d9811a3725" />
 
 ## Tools & Techniques
 
